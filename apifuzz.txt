@@ -1,0 +1,15 @@
+/api/cmd/ls
+/api/user
+/api/users
+/api/?xml
+/api?xml
+/api/v1?xml
+/api/v1/user?xml
+/api/?wsdl
+/api/v1/user
+/api/v2/user
+/api/v3/user
+/api/v2/user/*
+/api/v2/user/posts/*
+/api/v2/users/*
+/api/v1/post/..\etc/passwd
